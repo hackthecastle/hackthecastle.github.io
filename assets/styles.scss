@@ -1,0 +1,34 @@
+---
+title: false
+styles: true
+---
+
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nunitosans/v8/pe0qMImSLYBIv1o4X1M8cce9I9tAcVwo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+$bodytype: (
+  font-family: "'Nunito Sans', sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Nunito Sans", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+@import "alembic";
+
+.feature * {
+  color: #fff !important;
+}
