@@ -22,7 +22,7 @@ plugins:
 url: 'https://www.hackthecastle.com'
 baseurl: ''
 title: 'HackTheCastle'
-description: 'Noble and Greenough School'
+description: 'In-Person Hackathon at Noble and Greenough School'
 permalink: pretty
 logo: "/shield.png"
 
