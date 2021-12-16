@@ -1,4 +1,5 @@
 ---
+layout: edited-page
 title: ""
 feature_image: "/castle.jpeg"
 feature_text: |
