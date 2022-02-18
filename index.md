@@ -4,7 +4,7 @@ title: ""
 feature_image: "/castle.jpeg"
 feature_text: |
   # HackTheCastle
-  ### Saturday, March 5th, 2022
+  ### Saturday, April 9th, 2022
 ---
 HackTheCastle is a one-day hackathon being run by Noble and Greenough School on Saturday, April 9th, 2022, from 9 a.m. to 6 p.m. Open to coders of all experience levels!
 
